@@ -43,7 +43,7 @@ Simulation results verify the fluctuation–dissipation balance between stochast
 # Repository Contents
 simulation/
     linear_model.py
-    quadratic_drag.py
+    \n quadratic_drag.py
     parameter_estimation.py
 
 analysis/
