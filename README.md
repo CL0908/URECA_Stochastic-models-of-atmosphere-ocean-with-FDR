@@ -41,18 +41,22 @@ shear velocity follows a Boltzmann-type stationary distribution
 Simulation results verify the fluctuation–dissipation balance between stochastic forcing and dissipative dynamics.
 
 # Repository Contents
-simulation/
-    linear_model.py
-    \n quadratic_drag.py
-    parameter_estimation.py
-
-analysis/
-    covariance_diagnostics.py
-    lyapunov_solver.py
-
-figures/
-    stationary_distribution.png
-    parameter_recovery.png
+.
+├── simulation
+│   ├── linear_model.py
+│   ├── quadratic_drag.py
+│   └── parameter_estimation.py
+│
+├── analysis
+│   ├── covariance_diagnostics.py
+│   └── lyapunov_solver.py
+│
+├── figures
+│   ├── graph1.png
+│   └── graph2.png
+│   └── ....png
+│
+└── README.md
 
 # Project Information
 Project
