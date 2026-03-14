@@ -40,7 +40,7 @@ the stationary covariance predicted by the Lyapunov equation matches simulation
 shear velocity follows a Boltzmann-type stationary distribution
 Simulation results verify the fluctuation–dissipation balance between stochastic forcing and dissipative dynamics.
 
-# Repository Contents**
+# Repository Contents
 simulation/
     linear_model.py
     quadratic_drag.py
